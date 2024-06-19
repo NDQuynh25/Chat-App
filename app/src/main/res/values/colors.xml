@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Primary">#1C2E46</color>
+    <color name="PrimaryDark">#142232</color>
+    <color name="PrimaryText">#212121</color>
+    <color name="SecondaryText">#757575</color>
+    <color name="White">#FFFFFF</color>
+    <color name="InputBackground">#ECECEC</color>
+    <color name="IconBackground">#20FFFFFF</color>
+    <color name="Error">#B00020</color>
+    <color name="ReceiveMessage">#090D16</color>
+    <color name="black">#FF000000</color>
+    <color name="rose">#EEA5A5</color>
+    <color name="pink_10">#1AEEA5A5</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="navy">#FF041f3f</color>
+    <color name="nile_blue">#FF153050</color>
+    <color name="background">#FFEFEF</color>
+    <color name="transparent">#00000000</color>
+    <color name="online">#FF00FF00</color>
+    <color name="offline">#FF808080</color>
+    <color name="Grey">#FF808080</color>
+    <color name="hintTextColor">#80000000</color>
+    <color name="btl">#F6FFFD</color>
+</resources>

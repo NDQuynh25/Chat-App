@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ChatAppFireBase</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="create_account">Create Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="default_notification_channel_id">PROMOTION-NOTIFICATION-CHANNEL-ID</string>
+    <string name="search">Search</string>
+    <string name="question">Question</string>
+    <string name="ok">Ok</string>
+</resources>
